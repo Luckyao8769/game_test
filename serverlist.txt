@@ -4,10 +4,10 @@
 电信服务器列表=0
 网通服务器列表=0
 [Web]
-HomeUrl=http://www.cctv.com
-LogoUrl=http://www.cctv.com/link.htm
-GameUrl=http://www.cctv.com/
-MoneyUrl=http://www.cctv.com
+HomeUrl=
+LogoUrl=
+GameUrl=
+MoneyUrl=
 [LoginUp]
 Ver=1
-DownUrl=http://www.cctv.com/Down/Mir2Login.exe
+DownUrl=
